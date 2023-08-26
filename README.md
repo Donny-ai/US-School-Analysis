@@ -1,5 +1,6 @@
 # US-School-Analysis
 
+<<<<<<< HEAD
 In this project, I analyzed public school data to search for correlations and insights, primarily about Student-Teacher Ratios (STR) in the US.
 
 The process began with loading, cleaning, and reorganizing the data. I used histograms to find and remove outliers.
@@ -38,3 +39,6 @@ Finally, I plotted a bar chart showing student-teacher ratios by state, in desce
 - Some interesting observations I found: The 5 states with the lowest STR are all Northern states. California is the extreme outlier in high STR.
 
 - Further analysis could include using the Latitude and Longitude columns to map schools to the nearest major cities with N population, and compare Total Students, Total Teachers, and STR by distance to the major city.
+=======
+Cleaning, organizing, and analying public school data to find correlations and insights primarily about Student-Teacher Ratios (STR) in the US.
+>>>>>>> 22ad1dc347e290c8bc9968475c3fc52e5195d11e
