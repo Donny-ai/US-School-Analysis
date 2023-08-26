@@ -38,5 +38,3 @@ Finally, I plotted a bar chart showing student-teacher ratios by state, in desce
 - Some interesting observations I found: The 5 states with the lowest STR are all Northern states. California is the extreme outlier in high STR.
 
 - Further analysis could include using the Latitude and Longitude columns to map schools to the nearest major cities with N population, and compare Total Students, Total Teachers, and STR by distance to the major city.
-=======
-Cleaning, organizing, and analying public school data to find correlations and insights primarily about Student-Teacher Ratios (STR) in the US.
